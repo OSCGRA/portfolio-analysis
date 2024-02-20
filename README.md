@@ -34,23 +34,9 @@
     <img src="images/logo.png" alt="Logo" width="240" height="240">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Portfolio Analysis</h3>
+  
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -76,6 +62,15 @@ An introductory analysis of a portfolio consisting of 5 asset portfolios between
 * Cumulative Analysis
 * Volatility Assessment
 * Annualized Return Calculation
+
+<div align="center">
+  <p align="center">
+    An awesome PREZI  to jumpstart this project!
+    <br />
+    <a href="https://prezi.com/view/lWZ9fFtF1jm00S0pLxzu/"><strong>Prezi</strong></a>
+    <br />
+  </p>
+</div>
 
 <!-- CONCLUSIONS -->
 
