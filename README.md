@@ -79,14 +79,20 @@ An introductory analysis of a portfolio consisting of 5 asset portfolios between
 
 <!-- CONCLUSIONS -->
 
-[![Product Name Screen Shot][product-graphic(3)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(3).png)
-[![Product Name Screen Shot][product-graphic(4)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(4).png)
-[![Product Name Screen Shot][product-graphic(5)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(5).png)
-[![Product Name Screen Shot][product-graphic(6)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(6).png)
-[![Product Name Screen Shot][graphic(2)]]([https://example.com](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(2).png))
-[![Product Name Screen Shot][graphic(7)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(7).png)
-[![Product Name Screen Shot][graphic(1)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(1).png)
-
+<p align="center">Temporal Plot with Normalized Series</p>
+![graphic(3)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/4436163f-9f8d-4393-a161-3727c3b6af6d)
+<p align="center">Correlation Map between Daily Performances</p>
+![graphic(4)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/a9c3fdb8-8e3d-4454-b9f6-a3a1f5e4bb3a)
+<p align="center">Dispersion of daily performance</p>
+![graphic(5)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/5b9bc3f8-de35-4c32-b0fb-6af0f4119d86)
+<p align="center">Distribution of Asset Weights</p>
+![graphic(6)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/a9857be3-4d03-48e7-a3f8-05f8da597dd5)
+<p align="center">Cumulative Returns of Assets</p>
+![graphic(2)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/cefb370c-0888-43b9-b770-a10e77ff8a29)
+<p align="center">Annual Performance</p>
+![graphic(7)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/e0e4a719-9a04-42db-b5d2-c72827460612)
+<p align="center">Annual Volatility</p>
+![graphic(1)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/16d8af48-7ba6-4be1-86c6-566ab099faa9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
