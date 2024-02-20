@@ -79,20 +79,21 @@ An introductory analysis of a portfolio consisting of 5 asset portfolios between
 
 <!-- CONCLUSIONS -->
 
-<p align="center">Temporal Plot with Normalized Series</p>
-![graphic(3)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/4436163f-9f8d-4393-a161-3727c3b6af6d)
-<p align="center">Correlation Map between Daily Performances</p>
-![graphic(4)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/a9c3fdb8-8e3d-4454-b9f6-a3a1f5e4bb3a)
-<p align="center">Dispersion of daily performance</p>
-![graphic(5)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/5b9bc3f8-de35-4c32-b0fb-6af0f4119d86)
-<p align="center">Distribution of Asset Weights</p>
-![graphic(6)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/a9857be3-4d03-48e7-a3f8-05f8da597dd5)
-<p align="center">Cumulative Returns of Assets</p>
-![graphic(2)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/cefb370c-0888-43b9-b770-a10e77ff8a29)
-<p align="center">Annual Performance</p>
-![graphic(7)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/e0e4a719-9a04-42db-b5d2-c72827460612)
-<p align="center">Annual Volatility</p>
-![graphic(1)](https://github.com/OSCGRA/portfolio-analysis/assets/77927558/16d8af48-7ba6-4be1-86c6-566ab099faa9)
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Temporal Plot with Normalized Series</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/4436163f-9f8d-4393-a161-3727c3b6af6d" alt="graphic(3)" />
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Correlation Map between Daily Performances</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/a9c3fdb8-8e3d-4454-b9f6-a3a1f5e4bb3a" alt="graphic(4)" />
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Dispersion of daily performance</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/5b9bc3f8-de35-4c32-b0fb-6af0f4119d86" alt="graphic(5)" />
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Distribution of Asset Weights</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/a9857be3-4d03-48e7-a3f8-05f8da597dd5" alt="graphic(6)" />
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Cumulative Returns of Assets</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/cefb370c-0888-43b9-b770-a10e77ff8a29" alt="graphic(2)" />
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Annual Performance</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/e0e4a719-9a04-42db-b5d2-c72827460612" alt="graphic(7)" />
+<p style="align: center; margin-bottom: 10px; font-style: italic;">Annual Volatility</p>
+<img src="https://github.com/OSCGRA/portfolio-analysis/assets/77927558/16d8af48-7ba6-4be1-86c6-566ab099faa9" alt="graphic(1)" />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
