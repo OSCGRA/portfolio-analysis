@@ -79,13 +79,13 @@ An introductory analysis of a portfolio consisting of 5 asset portfolios between
 
 <!-- CONCLUSIONS -->
 
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(3).png)
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(4).png)
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(5).png)
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(6).png)
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(2).png))
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(7).png)
-[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(1).png)
+[![Product Name Screen Shot][product-graphic(3)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(3).png)
+[![Product Name Screen Shot][product-graphic(4)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(4).png)
+[![Product Name Screen Shot][product-graphic(5)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(5).png)
+[![Product Name Screen Shot][product-graphic(6)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(6).png)
+[![Product Name Screen Shot][graphic(2)]]([https://example.com](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(2).png))
+[![Product Name Screen Shot][graphic(7)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(7).png)
+[![Product Name Screen Shot][graphic(1)]](https://raw.githubusercontent.com/OSCGRA/portfolio-analysis/master/images/graphic(1).png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
